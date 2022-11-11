@@ -3,14 +3,24 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ✔ Project name: … vue-starter
+
 ✔ Package name: … package.json
+
 ✔ Add TypeScript? … Yes
+
 ✔ Add JSX Support? … Yes
+
 ✔ Add Vue Router for Single Page Application development? … Yes
+
 ✔ Add Pinia for state management? … Yes
+
 ✔ Add Vitest for Unit Testing? …  Yes
+
 ✔ Add an End-to-End Testing Solution? › Cypress
+
 ✔ Add ESLint for code quality? … No
+
+✔ Add tailwindcss? … Yes
 
 ## Recommended IDE Setup
 
